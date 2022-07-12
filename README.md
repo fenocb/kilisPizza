@@ -71,6 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
  ### Contribuidores
  Hugo Angeles Osorio
-
-Alan Gómez 
-Marco Gonzalez
+ Alan Gómez 
+ Marco Gonzalez
